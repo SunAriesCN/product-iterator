@@ -6,10 +6,10 @@ C++ iterator that performs the cartesian product of many containers.
 Requires C++11 and boost.
 
 I have let the test of this reposity be easier than before.
-You just do some operations following:
-`$ chmod +x cmp.sh`
-`$ ./cmp.sh`
-`$ ./product_iterator_test.exe`
+You just do some operations following: 
+`$ chmod +x cmp.sh` 
+`$ ./cmp.sh` 
+`$ ./product_iterator_test.exe` 
 
 And you will get the result like this:
 ```
